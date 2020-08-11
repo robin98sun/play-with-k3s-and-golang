@@ -41,10 +41,10 @@ What we are going to do along the way till foreseeable future is, trying to unde
 
 ## Levels to conquer
 
-* ### Level 1: Setup the virtual machine playground, with the ability of tuning resources and reporting resource utilization
+* #### Level 1: Setup the virtual machine playground, with the ability of tuning resources and reporting resource utilization
 
-* ### Level 2: Setup the  K3S and GoLang development env and CI tools for testing
+* #### Level 2: Setup the  K3S and GoLang development env and CI tools for testing
 
-* ### Level 3: Dynamically provisioning and scheduling jobs across the network
+* #### Level 3: Dynamically provisioning and scheduling jobs across the network
 
-* ### Level 4: Unrevealed
+* #### Level 4: Unrevealed
