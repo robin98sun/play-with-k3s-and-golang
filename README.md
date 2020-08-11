@@ -1,15 +1,15 @@
 # play-with-k3s-and-golang
 A playground for learning and practicing basic Cloud&amp;Edge computing concepts using K3S and GoLang
 
-## Overall Roadmap
+## Objectives
 What we are going to do along the way till foreseeable future is, trying to understand 
 
 + ### the practical aspects of 
-   1. generating an arbitrary network of computing power which heterogeneously distributed in location or resource capabilities using different kinds of virtual machines
+   1. generating an arbitrary network of computing units which heterogeneously distributed in location and resource capabilities using different kinds of virtual machines
    1. dynamically tuning of
       - network bandwidths between any nodes
       - network conditions between any nodes
-      - node health status
+      - node healthy status
       - disk mount/unmount status of any node
       - resource allocation, e.g., quota of CPU, Memory, Disk.
    1. provisioning a single job on computing unit in the network
@@ -35,7 +35,7 @@ What we are going to do along the way till foreseeable future is, trying to unde
       - disk fail of node
       - memory/cpu capacity change of node
 
-+ ### comparison of 
++ ### comparisons of 
    1. scheduling models
    1. provisioning models
 
@@ -47,4 +47,4 @@ What we are going to do along the way till foreseeable future is, trying to unde
 
 * #### Level 3: Dynamically provisioning and scheduling jobs across the network
 
-* #### Level 4: Unrevealed
+* #### Level 4: Unrevealed yet
