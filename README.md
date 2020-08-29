@@ -1,5 +1,7 @@
-# play-with-k3s-and-golang
+# Play-with-K3S-and-Golang (PKG)
 A playground for learning and practicing basic Cloud&amp;Edge computing concepts using K3S and GoLang
+
+This document introduce the perspectives of this project, you may also [rush into the playground directly](./docs/00.index.md)
 
 ## Objectives
 What we are going to do along the way till foreseeable future is, trying to understand 
